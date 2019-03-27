@@ -2,7 +2,7 @@ function runISL(scope) {
    if(scope == null || scope == "undefined") scope = window;
   var icklist =  [
                            "forestrygames.com",
-                           "play.forestrygames.com"
+                           "play.forestrygames.com",
                            "custom-orders.forestrygames.com"
 
               ];
