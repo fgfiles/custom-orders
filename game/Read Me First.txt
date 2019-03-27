@@ -1,7 +1,0 @@
-Open isl.js file and add your domain name where you want to host this game otherwise the game will not load.
-Please watch the Help Video for more info OR contact our support team.
-help@forestrygames.com
-
-Please note this game will not load on local sever please upload this game to your web sever to work and add your domain names to the isl.js file.
-
-Forestry Games.Ltd
